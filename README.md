@@ -1,6 +1,6 @@
 # movies
 
-This is a movie finder. 
+This is a movie finder consuming an API Rest and using a JSON format. 
 
 ## Getting Started
 
